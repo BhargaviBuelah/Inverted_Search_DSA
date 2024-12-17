@@ -1,0 +1,7 @@
+#0;are;1;text.txt;2;#
+#7;haii;1;text1.txt;1;#
+#7;how;2;text1.txt;2;text.txt;2;#
+#22;world;1;text1.txt;1;#
+#24;you;1;text.txt;1;#
+#26;1234;1;text1.txt;1;#
+#27;@@@@;1;text1.txt;1;#
